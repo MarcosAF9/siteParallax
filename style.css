@@ -6,17 +6,17 @@
 }
 
 .img1 {
-    background-image: url("https://s1.1zoom.me/b5050/160/354276-admin_1920x1080.jpg");
+    background-image: url("./imagens/foto1.jpg");
     height: 100vh;
 }
 
 .img2 {
-    background-image: url("https://wallpaperaccess.com/full/5691501.jpg");
+    background-image: url("./imagens/foto2.jpg");
     height: 50vh;
 }
 
 .img3 {
-    background-image: url("https://wallpaperaccess.com/full/1249472.jpg");
+    background-image: url("./imagens/foto3.jpg");
     height: 50vh;
 }
 
