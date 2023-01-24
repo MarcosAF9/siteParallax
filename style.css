@@ -25,11 +25,11 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;    
-    opacity: 70%;
+    background-attachment: fixed;
     display: flex;
     align-items: center;
     justify-content: center;
+    opacity: 70%;
 }
 
 .text1 {
